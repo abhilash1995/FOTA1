@@ -1,2 +1,2 @@
 # FOTA1
-My first FOTA using esp32 and github
+My first FOTA using espboards and github
